@@ -1,0 +1,13 @@
+{
+    "name": "rezafikkri/coba",
+    "description": "Coba coba",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rezafikkri",
+            "email": "fikkri.reza@gmail.com"
+        }
+    ],
+    "require": {}
+}
